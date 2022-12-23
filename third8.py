@@ -17,5 +17,5 @@ product=("pen","apple","orange","bike","car")
 coastprice=(80,90,100,120,150)
 sellingprice=(85,90,95,140,180)
 e=zip(product,coastprice,sellingprice)
-print("hello")
+
 

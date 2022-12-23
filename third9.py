@@ -6,6 +6,6 @@ for coastprice,sellingprice in e:
         print("totalloss:",coastprice-sellingprice)
     elif coastprice<sellingprice:
         print("totalprofit:", sellingprice-coastprice)
-
+        print("exit")
 
 
